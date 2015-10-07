@@ -12,6 +12,11 @@
         android:icon="@android:drawable/ic_menu_delete"
         app:showAsAction="always"></item>
 
+    <item android:id="@+id/saveBtn"
+        android:title="Save"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always"></item>
+
     <item android:id="@+id/action_settings"
         android:title="@string/action_settings"
         android:orderInCategory="100"
