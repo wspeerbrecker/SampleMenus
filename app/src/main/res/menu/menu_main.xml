@@ -3,17 +3,17 @@
     xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
 
     <item android:id="@+id/addBtn"
-        android:title="Add"
+        android:title="Add All"
         android:icon="@android:drawable/ic_menu_add"
         app:showAsAction="always"></item>
 
     <item android:id="@+id/deleteBtn"
-        android:title="Delete"
+        android:title="Delete All"
         android:icon="@android:drawable/ic_menu_delete"
         app:showAsAction="always"></item>
 
     <item android:id="@+id/saveBtn"
-        android:title="Save"
+        android:title="Save All"
         android:icon="@android:drawable/ic_menu_save"
         app:showAsAction="always"></item>
 
